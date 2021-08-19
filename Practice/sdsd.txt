@@ -1,0 +1,3 @@
+xác định các thành phần đối tượng để xây nên các lớp dự kiến
+sau khi xác định dc các lớp dự kiến chúng ta mô tả các chức năng của từng lớp đó
+sau khi xác định các chức năng của hệ thống ta thiết lập quan hệ giữa các tác nhân với use case
